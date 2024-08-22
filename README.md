@@ -1,10 +1,9 @@
-
-# <a href="https://private-user-images.githubusercontent.com/119916323/293458657-472db51d-0559-4167-bb92-2b7e5f82db55.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5MzcxNTksIm5iZiI6MTcwMzkzNjg1OSwicGF0aCI6Ii8xMTk5MTYzMjMvMjkzNDU4NjU3LTQ3MmRiNTFkLTA1NTktNDE2Ny1iYjkyLTJiN2U1ZjgyZGI1NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjMxMjMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIzMFQxMTQ3MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYTlhNmQxNGMxMzA0ZTAzN2E4MWYyYTA3ZmQyNTg3YjQ3OWRlNDg3ZTg0Y2NiODBkN2Q4MzE3ZTQ0MGQ4ZjcyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.otHDJiIIzHBpDkzlbm-JFINETM_K9ZrrcfHRCxt80gY">A cleanup script for macOS</a>
 ### Using homebrew
 
 ```bash
 brew tap fwartner/tap
 brew install fwartner/tap/mac-cleanup
 ```
-<img width="948" alt="Screenshot 2023-12-30 at 4 45 01 AM" src="https://github.com/sudo-self/mac-cleanup-sh/assets/119916323/472db51d-0559-4167-bb92-2b7e5f82db55">
 
+
+<img width="955" alt="Screenshot 2024-08-22 at 12 07 50 AM" src="https://github.com/user-attachments/assets/60b358a8-76ac-4255-bc4c-109f15c668b1">
