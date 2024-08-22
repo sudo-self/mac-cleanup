@@ -1,3 +1,6 @@
+## Node Package Manager
+<code>npm i mac-cleanup</code>
+
 ### Using homebrew
 
 ```bash
